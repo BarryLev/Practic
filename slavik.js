@@ -1,1 +1,1 @@
-document.body.innerHTML = '<span>Seks</span>'
+//document.body.innerHTML = '<span>Seks</span>'
