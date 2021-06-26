@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(22, 22, 22) !important;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.stalker2-logo{
+    height: 200px;
+}
+
+/* Header */
+.header{
+}
+
+
+.header__logo {
+    padding: 35px 0;
+    align-content: center;
+}
+
+.video{
+    text-align: center;
+}
+
+.video-text{
+    color: aqua;
+}
