@@ -21,6 +21,20 @@ body {
     background-color: rgba(0, 0, 0, .78);
 }
 
+.red-bg {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: #F55F72;
+}
+
+.header {
+    width: 100%;
+    /* max-width: 1170px; */
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0);
+}
+
 /* Header */
 
 .stalker2-logo {
@@ -124,8 +138,14 @@ body {
 
 .desc-title {
     color: #fff;
-    font-size: 24px;
+    font-size: 36px;
     text-decoration-line: underline;
+}
+
+.google-font {
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Lobster', cursive;
 }
 
 .desc-text {
